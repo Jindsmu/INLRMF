@@ -24,10 +24,7 @@ The Input data is located at the Releases for ‘INLRMF_Test_Data.zip’. The .c
 ## References
 <div id="svdinit">
 [1] Shiga M, Seno S, Onizuka M, et al. SC-JNMF: single-cell clustering integrating multiple quantification methods based on joint non-negative matrix factorization[J]. PeerJ, 2021, 9: e12087.
-
 [2] Zhang W, Xue X, Zheng X, et al. NMFLRR: clustering scRNA-seq data by integrating nonnegative matrix factorization with low rank representation[J]. IEEE Journal of Biomedical and Health Informatics, 2021, 26(3): 1394-1405.
-
 [3] Lee D D, Seung H S. Learning the parts of objects by non-negative matrix factorization[J]. nature, 1999, 401(6755): 788-791.
-
 [4] Boutsidis C, Gallopoulos E. SVD based initialization: A head start for nonnegative matrix factorization[J]. Pattern recognition, 2008, 41(4): 1350-1362.
 </div>
