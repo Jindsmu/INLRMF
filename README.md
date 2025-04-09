@@ -16,7 +16,7 @@ The code in this project will reproduce the results in our paper, "INLRMF: A Glo
 - Scikit-Learn >= 0.23
 
 ##  Usage
-You can run the sample script located in "inlrmf code \ example \ example1.py" to obtain and view the results of cluster analysis.
+You can run the sample script located in "INLRMF-code \ example \ example1.py" to obtain and view the results of cluster analysis.
 
 ## Data
 The Input data is located at the Releases for ‘INLRMF_Test_Data.zip’.The .csv files are the input datasets of SDJNMF method.
