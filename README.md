@@ -19,7 +19,7 @@ The code in this project will reproduce the results in our paper, "INLRMF: A Glo
 You can run the sample script located in "inlrmf code \ example \ example1.py" to obtain and view the results of cluster analysis.
 
 ## Data
-The Input data is located at ‘INLRMF-code\test_data’.The .csv files are the input datasets of SDJNMF method.
+The Input data is located at the Releases for ‘INLRMF_Test_Data.zip’.The .csv files are the input datasets of SDJNMF method.
 
 ## References
 <div id="svdinit">
