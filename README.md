@@ -2,7 +2,7 @@
 A Global Structure-Aware NMF Algorithm for Single-Cell RNA-seq Clustering
 
 ## Introduction
-This project constructed a non negative matrix factorization model integrating two scRNA-seq. This model is called the integrated non negative low rank matrix factorization algorithm (inlrmf), which can simultaneously learn the local and global characteristics of scRNA-seq data
+This project constructed a nonnegative matrix factorization model integrating two scRNA-seq. This model is called the Integrated Nonnegative Low Rank Matrix Factorization (INLRMF), which can simultaneously learn the local and global characteristics of scRNA-seq data.
 
 The code in this project will reproduce the results in our paper, "INLRMF: A Global Structure-Aware NMF Algorithm for Single-Cell RNA-seq Clustering".
 
@@ -19,7 +19,7 @@ The code in this project will reproduce the results in our paper, "INLRMF: A Glo
 You can run the sample script located in "INLRMF-code \ example \ example1.py" to obtain and view the results of cluster analysis.
 
 ## Data
-The Input data is located at the Releases for ‘INLRMF_Test_Data.zip’.The .csv files are the input datasets of SDJNMF method.
+The Input data is located at the Releases for ‘INLRMF_Test_Data.zip’. The .csv files are the input datasets of SDJNMF method.
 
 ## References
 <div id="svdinit">
